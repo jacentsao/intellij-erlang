@@ -16,7 +16,7 @@
 
 <idea-plugin url="http://ignatov.github.com/intellij-erlang" xmlns:xi="http://www.w3.org/2001/XInclude">
     <id>org.jetbrains.erlang</id>
-    <vendor email="ignatovs@gmail.com">Sergey Ignatov</vendor>
+    <vendor email="cao_jiaxing@126.com">Jacen Tsao</vendor>
     <depends>com.intellij.modules.lang</depends>
     <name>Erlang</name>
     <description><![CDATA[
@@ -32,7 +32,7 @@
     <change-notes>
         <![CDATA[
             <ul>
-              <li>IntelliJ Platform 2018.3 support</li>
+              <li>IntelliJ Platform 2020.3 support</li>
               <li>Erlang/OTP 21 map guards support</li>
               <li>Minor fixes</li>
             </ul>
